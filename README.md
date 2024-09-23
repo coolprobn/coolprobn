@@ -1,5 +1,3 @@
-[![Prabin Poudel - Rails & Web App Developer | Freelancer](https://res.cloudinary.com/prabin-poudel/image/upload/v1616994487/Github/github-featured-snippet.png)](https://prabinpoudel.com.np/)
-
 Hello 👋
 
 I’m Prabin Poudel, Frelancing Rails and Web App Developer from Nepal 🇳🇵
