@@ -12,4 +12,6 @@ I write about my struggles and solutions as a developer in my blogs frequently o
 
 Most recently (2024), I was also working as the CEO of [Truemark Technology](https://truemark.dev/)
 
-On the sides, I am right now building a Developer Experience tool for Rails ecosystem called [Zero Config Rails](https://zeroconfigrails.com/). It helps in automating initial boring setups when starting new Rails app by setting up all the gems you require in your applications with one line command `zen g new_app` instead of `rails new new_app` after you have configured gems required for your application from the web UI. 
+On the sides, I am actively working on making Minitest more approachable to beginners by writing a comprehensive guide to write tests with Minitest at https://minitestrails.com.
+
+I also built a Developer Experience tool for Rails ecosystem called [Zero Config Rails](https://zeroconfigrails.com/) (not in active development now). It helps in automating initial boring setups when starting new Rails app by setting up all the gems you require in your applications with one line command `zen g new_app` instead of `rails new new_app` after you have configured gems required for your application from the web UI. 
